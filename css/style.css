@@ -76,7 +76,7 @@
  footer {
        margin-top: 5%;
        min-height: 80px;
-       background: rgb(46, 43, 46);
+      
  }
  
  .column1 {
@@ -112,4 +112,11 @@ height: 30px;
   /* display: flex; */
   margin: auto;
   border: 3px solid black;
+}
+
+.right-link{
+
+}
+.nav{
+  
 }
